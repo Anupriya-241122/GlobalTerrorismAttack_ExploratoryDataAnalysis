@@ -1,17 +1,18 @@
-# GlobalTerrorismAttack_ExploratoryDataAnalysis
+# GlobalTerrorismAttack_EDA #InternshipProject@TheSparksFoundation#JUNE2023
 This repository contains the exploratory data analysis of Global Terrorism Attack since 1970 to 2017. 
 As a Security/Defense Analyst, the objective behind this project are as follows :
 
 **OBJECTIVE:** To perform Exploratory Data Analysis, that includes the following :
-Investigation of data.
+Investigation of data points.
 
 To find missing values.
 
-Summary Statistics.
+Statistical mearsure and view of data.
 
 To detect anomalies or outliers.
 
 Discovering patterns.
+
 Graphical representation of data.
 
 To find out the hot zone of terrorism.
