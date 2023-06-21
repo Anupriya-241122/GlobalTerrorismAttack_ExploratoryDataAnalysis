@@ -1,3 +1,4 @@
+[03471e96-5415-45cb-b272-3836461e38f7.webm](https://github.com/Anupriya-241122/GlobalTerrorismAttack_ExploratoryDataAnalysis/assets/122012680/313f1011-ec47-4a9a-b47b-302e55a19b0d)
 # GlobalTerrorismAttack_EDA #InternshipProject@TheSparksFoundation#JUNE2023
 This repository contains the exploratory data analysis of Global Terrorism Attack since 1970 to 2017. 
 As a Security/Defense Analyst, the objective behind this project are as follows :
